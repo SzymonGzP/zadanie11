@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+ <meta charset="utf-8"/>
+<title> Szymon Grotha kl 1P grupa 2 </title>
+</head>
+</html>
